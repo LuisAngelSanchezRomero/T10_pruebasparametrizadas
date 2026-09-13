@@ -4,6 +4,17 @@ Proyecto Java implementado con **JUnit 5**, **Mockito**, pruebas parametrizadas 
 
 ---
 
+## 👥 Integrantes y roles
+
+| Integrante                          | Rol            |
+|-------------------------------------|----------------|
+| HUAMAN CONCA, Dario Sebastian       | QA Lead        |
+| PALOMINO BENITO, Jhoss Andy         | QA Tester      |
+| TORREBLANCA FRANCO, Victor Raul     | QA Automation  |
+| SANCHEZ ROMERO, Luis Angel          | QA Tester      |
+
+---
+
 ## 🚀 Tecnologías y Herramientas
 
 - **Lenguaje:** Java 17 (OpenJDK 17)
